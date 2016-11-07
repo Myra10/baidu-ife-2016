@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+img{
+  width: 80px;
+  height: 80px;
+  padding: 20px;
+}
+
+.left,.right,.middle{
+border: 1px solid #999;
+background-color: #fff;
+}
+.left{
+  float: left;
+  width: 200px;
+  position: relative;
+}
+.right{
+  float: right;
+  width: 120px;
+}
+.middle{
+  padding: 20px;
+  margin: 0 180px 0 260px;
+}
+.main{
+  background-color: #eee;
+  border: 1px solid #999;
+  overflow: auto;
+  padding: 20px;
+  margin: 20px;
+}
+figcaption{
+position: absolute;
+top: 50px;
+right: 40px;
+}
