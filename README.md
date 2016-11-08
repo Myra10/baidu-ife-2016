@@ -9,3 +9,5 @@ task3:脱离文档流，三列布局自适应，清除浮动。
 
 task4:border-radius；包含块的position；css垂直居中方法。
 
+task5:vertical-align;text-aligh;float自适应。
+
